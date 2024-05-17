@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm Dimm</h1>
 <h3 align="center">A beginner frontend developer from Indonesia.</h3>
-<img align="right" alt="profile" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Ftabby-cat&psig=AOvVaw3KY2BUIvu7zPFo_bqpZpJR&ust=1716075649694000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiZlY_ulYYDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=searchfordimm&label=Profile%20views&color=0e75b6&style=flat" alt="searchfordimm" /> </p>
 
