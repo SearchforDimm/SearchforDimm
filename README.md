@@ -31,3 +31,6 @@
   },
 };
 ```
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=searchfordimm&show_icons=true&theme=dark&locale=en&layout=compact" alt="searchfordimm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=searchfordimm&theme=dark" alt="searchfordimm" /></p>
