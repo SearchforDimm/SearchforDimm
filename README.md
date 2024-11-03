@@ -16,6 +16,8 @@
     url: "github.com/SearchforDimm",
   },
   tools: [
+    "Laravel",
+    "Code Igniter",
     "React JS",
     "Vite",
     "Tailwindcss",
